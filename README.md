@@ -1,3 +1,3 @@
 # Lyft Backend Engineering Program
 
-![alt text](Lyft.pdf)
+![alt text](lyft.png)
